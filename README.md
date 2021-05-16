@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Disney-Plus-Clone-App 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/https:\/\/twitter.com\/mazil\_khatib" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/mazil\_khatib" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/mazil\_khatib.svg?style=social" />
+  <a href="https:https://twitter.com/mazil_khatib" target="_blank">
+    <img alt="Twitter: https://twitter.com/mazil_khatib" src="https://img.shields.io/twitter/follow/mazil_khatib.svg?style=social"  />
   </a>
 </p>
 
@@ -35,9 +35,9 @@ npm run test
 👤 **Mazil Khatib**
 
 * Website: https://mazilkhatib.github.io/portfolio/
-* Twitter: [@https:\/\/twitter.com\/mazil\_khatib](https://twitter.com/https:\/\/twitter.com\/mazil\_khatib)
+* Twitter: [@https:\/\/twitter.com\/mazil\_khatib](https://twitter.com/mazil_khatib)
 * Github: [@mazilkhatib](https://github.com/mazilkhatib)
-* LinkedIn: [@https:\/\/in.linkedin.com\/in\/mazil-khatib-730b62146](https://linkedin.com/in/https:\/\/in.linkedin.com\/in\/mazil-khatib-730b62146)
+* LinkedIn: [@https:\/\/in.linkedin.com\/in\/mazil-khatib-730b62146](https://in.linkedin.com/in/mazil-khatib-730b62146)
 
 ## Show your support
 
